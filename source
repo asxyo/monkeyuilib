@@ -12,8 +12,8 @@ iRay  | Programming
 
 local Release = "Beta 5"
 local NotificationDuration = 6.5
-local ConfigurationFolder = "Rayfield Interface Suite"
-local ConfigurationExtension = ".rfld"
+local ConfigurationFolder = "monkeyware"
+local ConfigurationExtension = ".monkey"
 
 
 
